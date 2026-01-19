@@ -1,4 +1,3 @@
-/admin
 /phpmyadmin
 /pma
 /wp-admin
