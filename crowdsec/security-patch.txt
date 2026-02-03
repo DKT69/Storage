@@ -306,3 +306,4 @@
 /cgi-bin/authLogin.cgi
 /solr/admin/info/system
 /solr/admin/cores?action=STATUS&wt=json
+/_ignition/execute-solution
