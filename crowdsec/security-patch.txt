@@ -20,7 +20,7 @@
 /sfmc/login
 /dms/out/out.login.php
 /rsso/admin/
-/admin/login_uid.php
+/login_uid.php
 /remote/login
 /commandcenter/restservlet/
 /db.sql
