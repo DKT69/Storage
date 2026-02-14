@@ -307,3 +307,7 @@
 /solr/admin/info/system
 /solr/admin/cores?action=STATUS&wt=json
 /_ignition/execute-solution
+/.DS_Store
+/graphql
+/api/graphql
+/ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
