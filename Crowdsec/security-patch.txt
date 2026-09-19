@@ -312,4 +312,4 @@
 /api/graphql
 /ecp/Current/exporttool/microsoft.exchange.ediscovery.exporttool.application
 /.well-known/passkey-endpoints
-/nmaplowercheck1789805082
+/nmap
